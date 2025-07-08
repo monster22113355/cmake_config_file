@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # 转换 ELF 文件为二进制和 HEX 文件
-elf_file="bin/mspm0_usart_test.elf"
-bin_file="bin/mspm0_usart_test.bin"
-hex_file="bin/mspm0_usart_test.hex"
+elf_file="bin/mspm0_usart_test.elf"  //用模板新建工程，记得修改成对应的elf文件名称
+bin_file="bin/mspm0_usart_test.bin"  //用模板新建工程，记得修改成对应的bin文件名称
+hex_file="bin/mspm0_usart_test.hex"  //用模板新建工程，记得修改成对应的hex文件名称
 
 
 # 定义颜色代码
